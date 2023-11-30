@@ -18,7 +18,7 @@ Please click on the following link to view a tutorial of the full-stack applicat
 back-end.
 
 # Design of the Application
-- I didn't straight away code application, but I only began coding after weeks of intense planning. The planning included drawing a hierarchal modular design diagram, level 0 and level 1
+- I didn't straight away code the application, but I only began coding after weeks of intense planning. The planning included drawing a hierarchal modular design diagram, level 0 and level 1
 data flow diagrams, SQL tables (for the database used in the back-end of the application), Entity-Relationship Diagrams, Design of each form/application which I manually and edited as per the client's
 expectations. Please see the link below giving the aforementioned details: https://drive.google.com/file/d/1tZ8efrRHLbjcxq_b8AZg7NiAA0auQRBk/view?usp=sharing
 
@@ -28,7 +28,5 @@ data related to student's homework submission, quiz results and how this could b
 - The link is: https://drive.google.com/file/d/1qrA2QXHUHogqiZnsuoVrQxwiNnddbw96/view?usp=sharing
 
 # Evaluation of the Application 
-- 
-
-
-# Other Important Information
+- In order to make sure I matched the expectations of the client, I regulary evalued my application which has been documented in the document below. Please click on the link to view the evaluation.
+https://drive.google.com/file/d/1UlkEDFh4blDz7kCGhS8v0960P8WnCRrB/view?usp=sharing
