@@ -1,5 +1,7 @@
 # AutomatingTuitions
-A responsive and dynamic full-stack application that helped my Calculus tutor carry out his daily classes and made life easier for him. 
+A responsive and dynamic full-stack application that helped my Calculus tutor carry out his daily classes and made life easier for him. This is application consists of three different portals, each with
+their own unique features. The three portals cater to the 3 different types of user that use this application: the client (my calculus tutor) for whom this application was built, his students, and for 
+their parents. 
 
 # Purpose of Creation
 The client of this application was my online Calculus tutor in 2022. He is a tutor who follows a
@@ -14,10 +16,19 @@ Please click on the following link to view a tutorial of the full-stack applicat
 # How the Full-stack application was created?
 - The following full-stack application was created using the Netbeans IDE for the front-end and PostGressSQL for the back-end. It utilized inbuilt GUI features of Netbeans for the front-end (written in Java) and heavily utilized Java and SQL for the
 back-end.
-- The main purpose of the
+
+# Design of the Application
+- I didn't straight away code application, but I only began coding after weeks of intense planning. The planning included drawing a hierarchal modular design diagram, level 0 and level 1
+data flow diagrams, SQL tables (for the database used in the back-end of the application), Entity-Relationship Diagrams, Design of each form/application which I manually and edited as per the client's
+expectations. Please see the link below giving the aforementioned details: https://drive.google.com/file/d/1tZ8efrRHLbjcxq_b8AZg7NiAA0auQRBk/view?usp=sharing
 
 # Techniques Utilized 
+- Please refer to the following document as it gives you a comprehensive guide of the tech-stack used in this application. I also utlized complex data structures such as arraylists when dealing with
+data related to student's homework submission, quiz results and how this could be represented across the 3 different "portals" of the application (teacher, student, client).
+- The link is: https://drive.google.com/file/d/1qrA2QXHUHogqiZnsuoVrQxwiNnddbw96/view?usp=sharing
 
 # Evaluation of the Application 
+- 
+
 
 # Other Important Information
