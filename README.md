@@ -1,5 +1,5 @@
 # AutomatingTuitions
-A responsive and dynamic full-stack application that helped my Calculus tutor carry out his daily classes and made life easier for him. This is application consists of three different portals, each with
+A responsive and dynamic full-stack application that helped my Calculus tutor carry out his daily classes and made life easier for him. This is an application that consists of three different portals, each with
 their own unique features. The three portals cater to the 3 different types of user that use this application: the client (my calculus tutor) for whom this application was built, his students, and for 
 their parents. 
 
